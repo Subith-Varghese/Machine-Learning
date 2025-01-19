@@ -1,6 +1,6 @@
 # Machine Learning
 
-### CSGO Game Project :
+### 1. CSGO Game Project :
 I implemented classification models for predicting game outcomes based on player and game-related features.
 
 * Data Preprocessing: Cleaned and processed a dataset of 97 features, including handling missing values, duplicates, and encoding categorical features using Label Encoding.
@@ -13,7 +13,8 @@ I implemented classification models for predicting game outcomes based on player
 
 
 
-### Project: census-income-imbalanced-classification-modeling
+
+### 2. Project: census-income-imbalanced-classification-modeling
 * Handled Imbalanced Data: Applied ADASYN (Adaptive Synthetic Sampling) to balance class distribution in the dataset, improving model performance on the minority class.
 * Model Building & Evaluation: Built and evaluated several machine learning models (Logistic Regression, Decision Tree, Random Forest) to predict target variable.
  * Improved model accuracy from 83.7% (Decision Tree) to 85.4% after hyperparameter tuning.
